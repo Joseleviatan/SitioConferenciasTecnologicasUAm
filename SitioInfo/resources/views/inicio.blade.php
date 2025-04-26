@@ -11,21 +11,26 @@
 
 
 <div class="container">
-    
     <div class="row mb-5">
-        <div class="col-md-6">
-            <div class="card shadow p-4">
-                <h3 class="display-7 text-primary fw-bold">Misión</h3>
-                <p>Formar profesionales íntegros, competentes y comprometidos con el desarrollo sostenible de la sociedad, mediante una educación de calidad centrada en el estudiante.</p>
+        <div class="col-md-6 d-flex justify-content-center">
+            <div class="wrapper-hover">
+                <div class="card shadow p-4 card-hover">
+                    <h3 class="display-7 text-primary fw-bold">Misión</h3>
+                    <p>Formar profesionales íntegros, competentes y comprometidos con el desarrollo sostenible de la sociedad, mediante una educación de calidad centrada en el estudiante.</p>
+                </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card shadow p-4">
-                <h3 class="display-7 text-primary fw-bold">Visión</h3>
-                <p>Ser una institución de educación superior reconocida por su excelencia académica, innovación y liderazgo en la formación de profesionales para un mundo globalizado.</p>
+        <div class="col-md-6 d-flex justify-content-center">
+            <div class="wrapper-hover">
+                <div class="card shadow p-4 card-hover">
+                    <h3 class="display-7 text-primary fw-bold">Visión</h3>
+                    <p>Ser una institución de educación superior reconocida por su excelencia académica, innovación y liderazgo en la formación de profesionales para un mundo globalizado.</p>
+                </div>
             </div>
         </div>
     </div>
+</div>
+
 
    
     <div class="mb-5">
